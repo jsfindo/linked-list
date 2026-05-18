@@ -153,6 +153,10 @@ findIndex(value){
 
 /// stgesmklkkmlskm
 
+
+
+/// san kfjnakpopsk
+
 // example uses class syntax - adjust as necessary
 const list = new LinkedList();
 
