@@ -29,7 +29,7 @@ class LinkedList{
        const node = new Node(value, this.head)
        this.head = node
     }
-
+// sinfknsaknkl
 
     size(){
         let i =0
